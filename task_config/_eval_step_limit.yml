@@ -48,3 +48,15 @@ stack_bowls_three: 1200
 stack_bowls_two: 900
 stamp_seal: 400
 turn_switch: 400
+
+# OOD composed tasks
+handover_then_place_phone_stand: 1000
+stack_then_scan: 1300
+shake_then_place_bottle: 2400
+rotate_qrcode_then_scan: 900
+open_laptop_then_place_object_inside: 1100
+dump_bin_then_sort_by_color: 1800
+press_stapler_while_holding: 800
+unpack_then_rank: 1700
+place_dual_shoes_then_hang_mug: 1500
+fill_then_shake_then_move_to_pot: 1800

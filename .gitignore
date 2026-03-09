@@ -1,3 +1,7 @@
+.idea
+.jbeval
+.claude
+
 models/
 data/*
 !data/process_stuck.py
