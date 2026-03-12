@@ -60,3 +60,6 @@ press_stapler_while_holding: 800
 unpack_then_rank: 1700
 place_dual_shoes_then_hang_mug: 1500
 fill_then_shake_then_move_to_pot: 1800
+handover_then_hang_mug: 1700
+click_bell_then_sort_blocks: 1600
+stamp_then_stack_bowls: 1300
